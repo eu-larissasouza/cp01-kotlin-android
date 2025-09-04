@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP-01-B</string>
+    <string name="gold_sale_text">Venda de ouro</string>
+    <string name="amount_of_gold_text">Digite a quantidade de ouro</string>
+    <string name="price_gram_text">Digite o preço por grama</string>
+    <string name="calculate_total_text">Calcular total</string>
+    <string name="total_result_text">Total: R$ %1$.2f</string>
+    <string name="fill_all_fields_text">Preencha todos os campos!</string>
+</resources>
